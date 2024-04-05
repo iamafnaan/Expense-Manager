@@ -1,38 +1,55 @@
-# Project Title
+# Expense Manager
 
-"Expense Manager simplifies expense tracking with CRUD operations. Categorize spending for better organization. Secure authentication ensures data privacy. Accessible across platforms for convenience. One can Empower themselves financially with Expense Manager."
+Expense Manager simplifies expense tracking with CRUD operations. Categorize spending for better organization. Secure authentication ensures data privacy. Accessible across platforms for convenience. Empower yourself financially with Expense Manager.
 
-## Table of Contents
+## Features
 
-- [Project Title](#project-title)
-  - [Table of Contents](#table-of-contents)
-  - [About the Project](#about-the-project)
-  - [Tech Stack Used](#TechStackUsed)
-    - [Installation](#installation)
+- **Detailed Game Information**: Each game listing comes with a wealth of information, including descriptions, ratings, reviews, trailers, and screenshots, allowing users to make informed decisions.
+- **Search and Filter**: Easily find expenses by searching with keywords or date to keep track on your finance management.
+- **Responsive Design**: Enjoy a seamless browsing experience across various devices, ensuring accessibility and usability for all users.
 
-  - [Contact](#contact)
+## Live Demo
+[Expense-Manager]()
 
-## About the Project
+## How to Run the Application Locally
 
-Explain what your project is about. Provide context and explain any problem it solves. Include any relevant links or images to help the reader understand your project better.
+### Prerequisites:
+Ensure you have Node.js installed on your machine.
 
-## Getting Started
+### Installation:
 
-Instructions on setting up your project locally. Make sure to include all the steps necessary for someone to get your project up and running.
+1. Clone the repository: ``
+2. Navigate to the project directory: `cd to the directory`
+3. Install dependencies: `npm install`
+4. Create a .env file at the root and create the RESTapi endpoints or use this
 
-### Tech Stack Used
+ REACT_APP_MOCK_EXPENSE_BASE_URL=<custom URI> 
 
-React.js, TailwindCSS, Node.js (for package manager)
-
-### Installation
-
-Provide step-by-step instructions on how to install your project. You can include code snippets or commands to make it easier for the user.
-
+https://64c4b54567cfdca3b660e9e4.mockapi.io/expenses
 
 
-Include information about the license under which your project is released. This is important for letting others know what they can and cannot do with your code.
+REACT_APP_MOCK_USER_BASE_URL=<custom URI>
 
-## Contact
+https://64c4b54567cfdca3b660e9e4.mockapi.io/users
 
-Provide contact information for the maintainer(s) of the project. This could include email addresses, social media profiles, or links to a website or blog.
 
+### Start the Development Server:
+
+1. Begin the development server: `npm start`
+2. Open your browser and visit: [http://localhost:3000](http://localhost:3000)
+3. Login details: email - a@gmail.com   password: 123
+
+## Technologies Used
+
+- **JavaScript**
+- **React**
+- **Redux**
+- **TailwindCSS**
+- **Mockapi.io**
+
+## Feedback and Contributions
+
+Contributions to the Expense Manager are highly appreciated! Whether it's bug fixes, feature enhancements, or new ideas, feel free to contribute by opening issues or submitting pull requests on the project repository. 
+
+## Contact Information
+For any queries or assistance during the evaluation, you can contact me at afnaanahmed33@gmail.com
