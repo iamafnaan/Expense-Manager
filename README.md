@@ -9,7 +9,7 @@ Expense Manager simplifies expense tracking with CRUD operations. Categorize spe
 - **Responsive Design**: Enjoy a seamless browsing experience across various devices, ensuring accessibility and usability for all users.
 
 ## Live Demo
-[Expense-Manager](expense-manager-pied.vercel.app/)
+[Expense-Manager](https://expense-manager-pied.vercel.app/)
 
 ## How to Run the Application Locally
 
@@ -18,7 +18,7 @@ Ensure you have Node.js installed on your machine.
 
 ### Installation:
 
-1. Clone the repository: ``
+1. Clone the repository: `https://github.com/iamafnaan/Expense-Manager.git`
 2. Navigate to the project directory: `cd to the directory`
 3. Install dependencies: `npm install`
 4. Create a .env file at the root and create the RESTapi endpoints or use this
