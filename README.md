@@ -2,9 +2,12 @@
 
 Expense Manager simplifies expense tracking with CRUD operations. Categorize spending for better organization. Secure authentication ensures data privacy. Accessible across platforms for convenience. Empower yourself financially with Expense Manager.
 
+
+Login details: email - a@gmail.com   password: 123
+
 ## Features
 
-- **Detailed Game Information**: Each game listing comes with a wealth of information, including descriptions, ratings, reviews, trailers, and screenshots, allowing users to make informed decisions.
+- **Detailed Expense Information**: Each expense listing comes with a wealth of information, including descriptions, Date, Amount, Time etc allowing users to make informed decisions.
 - **Search and Filter**: Easily find expenses by searching with keywords or date to keep track on your finance management.
 - **Responsive Design**: Enjoy a seamless browsing experience across various devices, ensuring accessibility and usability for all users.
 
