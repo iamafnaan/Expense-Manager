@@ -3,7 +3,7 @@
 Expense Manager simplifies expense tracking with CRUD operations. Categorize spending for better organization. Secure authentication ensures data privacy. Accessible across platforms for convenience. Empower yourself financially with Expense Manager.
 
 
-Login details for the webapp: email - a@gmail.com   password: 123
+**Login details for the webapp: email - a@gmail.com   password: 123**
 
 ## Features
 
